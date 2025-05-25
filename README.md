@@ -38,30 +38,11 @@ Cada pasta contém subpastas para cada aula, incluindo códigos, exemplos e expl
 
 ---
 
-## 🗺️ Roadmap do Curso
-
-### HTML
-- `01-introducao` – Introdução ao HTML
-- `02-elementos-basicos` – Elementos básicos de HTML
-- `03-formularios` – Formulários HTML
-
-### CSS
-- `01-seletores` – Seletores CSS
-- `02-box-model` – Box Model e espaçamentos
-- `03-layout-flexbox` – Layout com Flexbox
-
-### JavaScript
-- `01-variaveis` – Variáveis em JS
-- `02-condicionais` – Condicionais em JS
-- `03-funcoes` – Funções em JS
-
----
-
 ## ⚠️ Avisos Importantes
 
-- Use nomes de arquivos em minúsculas e sem espaços.
+- Use nomes de arquivos em minúsculas.
 - Siga as instruções de cada pasta para melhor aproveitamento.
-- Salve exercícios pessoais em outras pastas para não sobrescrever o material original.
+- Sempre organize seus materiais.
 
 ---
 
